@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sintu Hazarika</h1>
-<h3 align="center">A passionate AI & Machine Learning student from India,  </h3>
-
-<h5 align="center">Currently pursuing AI/ML and having foundational knowledge and interest in Full-Stack Development and UI/UX Design</h5>
-
-
-
+<h3 align="center">  B.Tech (Hons.) CSE (AI) @ CSVTU Bhilai Specialization in AI/ML  </h3>
+<h5 align="center">Currently pursuing 🤖AI/ML and having foundational knowledge and interest in ( 🧑‍💻Full-Stack Development & 🎨UI/UX Design )</h5>
 <h3 align="center">_____________________________________________________________________________________________________</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center" >
@@ -27,10 +23,10 @@
 <h3 align="center">Frameworks and Libraries:</h3>
 <p align="center"> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/62865614b39c464b76d339aa/686580889f48edad7bdadf77_numpylogoicon%201.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="opencv" width="40" height="40"/> </a>
-<a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/1*AIlWq29GeP1eny3wA7aMgA.png" alt="opencv" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/62865614b39c464b76d339aa/686580889f48edad7bdadf77_numpylogoicon%201.svg" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/1*AIlWq29GeP1eny3wA7aMgA.png" alt="tkinter" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux toolkit" width="40" height="40"/></a>
