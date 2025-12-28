@@ -39,6 +39,7 @@
 <h3 align="center">Databases:</h3>
 <p align="center">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="mongoDB" width="40" height="40"/> </a>
 <h3 align="center">Tools:</h3>
 <p align="center"> 
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngall.com/wp-content/uploads/13/Canva-Logo-PNG-Photos.png" alt="canva" width="40" height="40"/> </a> 
