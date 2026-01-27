@@ -11,7 +11,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center" >
 <a href="https://linkedin.com/in/sintu-hazarika-844064327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sintu-hazarika-844064327" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shazar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shazar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shazar" target="blank"><img align="center" src="https://img.icons8.com/ios_filled/512/FFFFFF/codechef.png" alt="shazar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shazar" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/sintuhazarika555/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" />
 </a>
