@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sintu Hazarika</h1>
+
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJodmVibXR0ajc5ODl2c3Bic2tyejk4d3N3bDduYnhtMXprcnN5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</p>
+  <img src="https://raw.githubusercontent.com/Sintuhazarika555/Bot-clipArt/refs/heads/main/Screenshot%202026-01-31%20004857.png" width="400"/>
+</p
+
 <h3 align="center">  B.Tech (Hons.) CSE (AI) @ CSVTU Bhilai Specialization in AI/ML  </h3>
 <h5 align="center">Currently pursuing 🤖AI/ML and having foundational knowledge and interest in ( 🧑‍💻Full-Stack Development & 🎨UI/UX Design )</h5>
 <h1 align="center"> </h1>
