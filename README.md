@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sintu Hazarika</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sintuhazarika555/Bot-clipArt/refs/heads/main/Screenshot%202026-01-31%20004857.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/Sintuhazarika555/Gun-clipArt/refs/heads/main/Screenshot_2026-01-31_004857-removebg-preview.png" width="300"/>
 </p
 
 <h3 align="center">  B.Tech (Hons.) CSE (AI) @ CSVTU Bhilai Specialization in AI/ML  </h3>
