@@ -2,9 +2,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sintuhazarika555/Bot-clipArt/refs/heads/main/Screenshot_2026-01-31_011054-removebg-preview.png" width="300"/>
-</p
+</p>
 
-<h3 align="center">  B.Tech (Hons.) CSE (AI) @ CSVTU Bhilai Specialization in AI/ML  </h3>
+<h3 align="center">B.Tech (Hons.) CSE (AI) @ CSVTU Bhilai Specialization in AI/ML </h3>
 <h5 align="center">Currently pursuing 🤖AI/ML and having foundational knowledge and interest in ( 🧑‍💻Full-Stack Development & 🎨UI/UX Design )</h5>
 <h1 align="center"> </h1>
 
