@@ -52,6 +52,8 @@
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngall.com/wp-content/uploads/13/Canva-Logo-PNG-Photos.png" alt="canva" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://spline.design/" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/Idxls5gflKqlPBP9Sn6LJkwQ4uW-f291qq0gaKsvNJo6hvUigK35W8Ha-zm8eZAYPuGoZ6lk=s900-c-k-c0x00ffffff-no-rj" alt="git" width="40" height="40"/> </a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/960px-Blender_logo_no_text.svg.png" alt="git" width="40" height="40"/> </a>
  </p>
  <h1 align="center"> </h1>
 
