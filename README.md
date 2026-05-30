@@ -42,6 +42,7 @@
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux toolkit" width="40" height="40"/></a>
 <a href="https://demos.gsap.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/2386673?v=4" alt="GSAP" width="40" height="40"/></a>
 <a href="https://motion.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framer motion" width="40" height="40"/></a>
+<a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6eYPFwgeZwxd58aXqFwuhMF914MrfSPtqjQ&s" alt="ThreeJS" width="40" height="40"/></a>
 
 <h3 align="center">Databases:</h3>
 <p align="center">
